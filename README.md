@@ -1,5 +1,6 @@
 # Battery-Dataset-Exploratory-Data-Analysis-and-ML-Regression-Modeling---Project_1
 
+## Objective
 The main aim of this study was to predict the average battery temperature (Tavg) using the BC_35.csv dataset under different operating conditions. Statistical and correlation analysis 
 showed that battery temperature mainly depends on electrical load and discharge behavior. 
 
@@ -42,9 +43,8 @@ correlation analysis, and feature selection, it was identified that Discharge Cu
 2. Load the dataset (BC_35.csv)
 3. Run the main script file
 
-## Tools:
-
 ## Course Information
 MATLAB | Course: Industry 4.0 (24EE206T) |PDEU
+
 ## Note
 This project was developed with the assistance of AI tools and independently validated and analyzed.
